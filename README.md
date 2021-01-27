@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Abdel-rhman1/Abdel-rhman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -     Hello everyone I'm Abdelrhman Mohammed , junior Software Engineer
 - 🌱 I’m currently learning php framework (laravel) , javascript,python
