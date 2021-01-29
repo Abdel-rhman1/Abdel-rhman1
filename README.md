@@ -1,5 +1,3 @@
-### Hi there 👋
-Here are some ideas to get you started:
 -  Hello everyone I'm Abdelrhman Mohammed , junior Software Engineer
 -  I have experience in: C++, Java, php ,assemply, sql , MySQL ,Network knowledge(ccna) , API , Data Structures and advanced Data Structures , Design Patterns , Git , SOLID ,
     HTML , CSS , Ajax , Jquery , and Linux .
