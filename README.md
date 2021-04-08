@@ -46,13 +46,13 @@
      <li>Version Controls (Git)</li>
      <li>Data Structures (including advanced Topics)</li>
      <li>Algorithms</li>
-     <li>Operating System (Windows - Linux)<li>
+     <li>Operating System (Windows - Linux)</li>
      <li>Network (fundementals) CCNA (Self Study)</li>
      </ul>
     </ul>
-- 🌱 I’m currently learning php framework (laravel) , javascript,python and mongodb
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help 😄
-- 📫 How to reach me: [Let's get in touch!](https://www.linkedin.com/feed/) 
-- ⚡ Fun fact: I love connecting with different people 🙌
+- 🌱 I’m currently learning php framework (laravel) ,python and mongodb <br/>
+- 👯 I’m looking to collaborate with other Developers <br/>
+- 🥅 2021 Goals: Contribute to Open Source projects </br>
+- 💬 Ask me about anything, I am happy to help you 😄 </br>
+- 📫 How to reach me: [Let's get in touch!](https://www.linkedin.com/feed/)  </br>
+- ⚡ Fun fact: I love connecting with different people 🙌 </br>
