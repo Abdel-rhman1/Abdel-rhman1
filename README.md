@@ -1,9 +1,6 @@
 
  <h1 align="center" color="red">Hello World I'm Abdel-rhman </h1>  
  <img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" style="max-width:100%;"> 
-  <h4 algin="left">
-     My Name Is Abdel-rhman Moahmmed 
-  </h4>
   <h3>
      Education
   </h3>
