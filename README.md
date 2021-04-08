@@ -6,12 +6,12 @@
   </p>
   <h2>
      Education
+  </h2>
       <ul>
          <li>
-            Faculty Of computers and Artificial Instelligence (Cairo University)
+          <h4>Faculty Of computers and Artificial Instelligence (Cairo University)</h4>
          </li>
       </ul>
-  </h2>
 -  I have experience in: C++, Java, php ,assemply, sql , MySQL ,Network knowledge(ccna) , API , Data Structures and advanced Data Structures , Design Patterns , Git , SOLID ,
     HTML , CSS , Ajax , Jquery , and Linux .
 - I know C# , Trello , and javascript
