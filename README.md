@@ -15,13 +15,13 @@
       <h3>Technical Skills</h3>
      <ul>
          <ul>
-          <h6>Programming Languages</h6>
+          <h4>Programming Languages</h4>
             <li>
               C++ , Java , Javascript , PHP
            </li>
          </ul>
      <ul>
-      <h6>Designing languages and Libraries</h6>
+      <h4>Designing languages and Libraries</h4>
         <li>
            HTML , CSS
         <li>
@@ -30,27 +30,26 @@
       </li>
      </ul>
      <ul>
-      <h6>Frameworks</h6>
+      <h4>Frameworks</h4>
       <li>
        laravel (PHP Framework) 
      </li>
     </ul>
     <ul>
-       <h6>Data Base</h6>
+       <h4>Data Base</h4>
       <li>SQL - MYSQL</li>
     </ul>
     <ul>
-     <h6>Software SKills</h6>
+     <h4>Software SKills</h4>
      <li>Object Oriented Programming (OOP)</li>
      <li>Solid Principles - Desgin Patterns</li>
      <li>Version Controls (Git)</li>
      <li>Data Structures (including advanced Topics)</li>
      <li>Algorithms</li>
+     <li>Operating System (Windows - Linux)<li>
+     <li>Network (fundementals) CCNA (Self Study)</li>
      </ul>
     </ul>
--  I have experience in: C++, Java, php ,assemply, sql , MySQL ,Network knowledge(ccna) , API , Data Structures and advanced Data Structures , Design Patterns , Git , SOLID ,
-    HTML , CSS , Ajax , Jquery , and Linux .
-- I know C# , Trello , and javascript
 - 🌱 I’m currently learning php framework (laravel) , javascript,python and mongodb
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2020 Goals: Contribute to Open Source projects
