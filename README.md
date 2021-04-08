@@ -1,14 +1,16 @@
- <!HTML DOCTYPE>
-    <html>
-        <head>
-            <style>
-                h2{
-                    color:red;
-                }
-            </style>
-        </head>
-    
-    </html>
+<h1 align="center">Hello World!</h1>
+
+<p>My name is Kevin, and here are a few things I'm working on:</p>
+
+<ul>
+  <li>Happy Coding</li>
+  <li>Software Product Sprint</li>
+  <li>Google Maps</li>
+</ul>
+
+<hr>
+
+<p>I <strong>love</strong> nerding out about creative coding, so don't hesitate to reach out!</p>
  <h1>Hi I'm Abdel-rhman </h1>
 -  <h2 style="text-algin=center">Software Engineer</h2>
 -  I have experience in: C++, Java, php ,assemply, sql , MySQL ,Network knowledge(ccna) , API , Data Structures and advanced Data Structures , Design Patterns , Git , SOLID ,
