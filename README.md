@@ -5,6 +5,14 @@
 -  <p algin="left">
 -     My Name Is Abdel-rhman Moahmmed 
 -  </p>
+-  <h2>
+-     Education
+ -     <ul>
+ -        <li>
+ -           Faculty Of computers and Artificial Instelligence (Cairo University)
+ -        </li>
+ -     </ul>
+-  </h2>
 -  I have experience in: C++, Java, php ,assemply, sql , MySQL ,Network knowledge(ccna) , API , Data Structures and advanced Data Structures , Design Patterns , Git , SOLID ,
     HTML , CSS , Ajax , Jquery , and Linux .
 - I know C# , Trello , and javascript
