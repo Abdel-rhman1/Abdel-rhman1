@@ -17,25 +17,16 @@
          <ul>
           <h6>Programming Languages</h6>
             <li>
-              C++
+              C++ , Java , Javascript , PHP
            </li>
-          <li>
-            Java
-         </li>
-        <li>
-          JavaScript
-       </li>
-      <li>
-         PHP
-      </li>
-    </ul>
+         </ul>
      <ul>
       <h6>Designing languages and Libraries</h6>
-      <li>
-         HTML , CSS
-      <li>
-         Jquery , Bootstrap
-      </li>
+        <li>
+           HTML , CSS
+        <li>
+           Jquery , Bootstrap -  Ajax
+        </li>
       </li>
      </ul>
      <ul>
@@ -44,7 +35,19 @@
        laravel (PHP Framework) 
      </li>
     </ul>
+    <ul>
+       <h6>Data Base</h6>
+      <li>SQL - MYSQL</li>
+    </ul>
+    <ul>
+     <h6>Software SKills</h6>
+     <li>Object Oriented Programming (OOP)</li>
+     <li>Solid Principles - Desgin Patterns</li>
+     <li>Version Controls (Git)</li>
+     <li>Data Structures (including advanced Topics)</li>
+     <li>Algorithms</li>
      </ul>
+    </ul>
 -  I have experience in: C++, Java, php ,assemply, sql , MySQL ,Network knowledge(ccna) , API , Data Structures and advanced Data Structures , Design Patterns , Git , SOLID ,
     HTML , CSS , Ajax , Jquery , and Linux .
 - I know C# , Trello , and javascript
