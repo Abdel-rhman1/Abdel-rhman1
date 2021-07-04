@@ -20,7 +20,7 @@
      <ul>
       <h4>Designing languages and Libraries</h4>
         <li>
-           HTML , CSS
+           HTML , CSS 
         <li>
            Jquery , Bootstrap -  Ajax
         </li>
@@ -33,18 +33,17 @@
      </li>
     </ul>
     <ul>
-       <h4>Data Base</h4>
+       <h4>Data Bases</h4>
       <li>SQL - MYSQL</li>
     </ul>
     <ul>
      <h4>Software SKills</h4>
-     <li>Object Oriented Programming (OOP)</li>
-     <li>Solid Principles - Desgin Patterns</li>
-     <li>Version Controls (Git)</li>
+     <li>Object Oriented Programming (OOP) -
+     Solid Principles - Desgin Patterns - 
+     Version Controls (Git)</li>
      <li>Data Structures (including advanced Topics)</li>
      <li>Algorithms</li>
-     <li>Operating System (Windows - Linux)</li>
-     <li>Network (fundementals) CCNA (Self Study)</li>
+     <li>Operating System (Windows - Linux) - Network (fundementals) CCNA (Self Study)</li>
      </ul>
     </ul>
 - 🌱 I’m currently learning php framework (laravel) ,python and mongodb <br/>
