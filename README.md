@@ -13,7 +13,7 @@
          </ul>
      <ul>
       <h4>Designing languages and Libraries</h4>
-        <li> HTML5 , CSS3 <li>
+        <li> HTML5 , CSS3 </li>
            <li> Jquery , Bootstrap -  Ajax </li>
      </ul>
      <ul>
