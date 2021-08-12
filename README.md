@@ -1,7 +1,7 @@
 
  <h1 align="center" color="red">Hello World I'm Abdel-rhman </h1>  
 <!--  <img align="right" alt="GIF" width="300" style="border-raduis:50%" height="200" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" style="max-width:100%;">  -->
-  <h3>
+  <h3 align="center">
      Education
   </h3>
       <ul>
@@ -18,7 +18,7 @@
            </li>
          </ul>
      <ul>
-      <h4>Designing languages and Libraries</h4>
+      <h4  align="center">Designing languages and Libraries</h4>
         <li>
            HTML , CSS 
         <li>
@@ -27,7 +27,7 @@
       </li>
      </ul>
      <ul>
-      <h4>Frameworks</h4>
+      <h4  align="center">Frameworks</h4>
       <li>
        laravel (PHP Framework) 
      </li>
@@ -37,7 +37,7 @@
       <li>SQL - MYSQL</li>
     </ul>
     <ul>
-     <h4>Software SKills</h4>
+     <h4  align="center">Software SKills</h4>
      <li>Object Oriented Programming (OOP) -
      Solid Principles - Desgin Patterns - 
      Version Controls (Git)</li>
