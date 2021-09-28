@@ -3,7 +3,7 @@
 <!--  <img align="right" alt="GIF" width="300" style="border-raduis:50%" height="200" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" style="max-width:100%;">  -->
   <h2> Education </h2>
       <ul style="type:none">
-         <li>Faculty Of computers and Artificial Instelligence (Cairo University)</li>
+         <li style="type:none">Faculty Of computers and Artificial Instelligence (Cairo University)</li>
       </ul>
       <h3>Technical Skills</h3>
      <ul>
