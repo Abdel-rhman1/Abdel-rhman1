@@ -5,8 +5,8 @@
       <ul  style="padding:5px">
          <li style="type:none">Faculty Of computers and Artificial Instelligence (Cairo University)</li>
       </ul>
-      <h3 style="padding:2px">Technical Skills</h3>
-     <ul>
+      <h3 >Technical Skills</h3>
+     <ul style="padding:2px">
          <ul style="padding:2px">
           <h4>Programming Languages</h4>
             <li>C++ , Java , Javascript , PHP , typeScript</li>
