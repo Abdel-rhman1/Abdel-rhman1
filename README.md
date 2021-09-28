@@ -9,12 +9,12 @@
      <ul>
          <ul>
           <h4>Programming Languages</h4>
-            <li>C++ , Java , Javascript , PHP</li>
+            <li>C++ , Java , Javascript , PHP , typeScript</li>
          </ul>
      <ul>
       <h4>Designing languages and Libraries</h4>
         <li> HTML5 , CSS3 </li>
-           <li> Jquery , Bootstrap -  Ajax </li>
+           <li> Jquery , Bootstrap -  Ajax - Angular (single Page Application) </li>
      </ul>
      <ul>
       <h4>Frameworks</h4>
