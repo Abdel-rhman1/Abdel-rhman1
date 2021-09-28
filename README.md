@@ -6,7 +6,7 @@
          <li style="type:none">Faculty Of computers and Artificial Instelligence (Cairo University)</li>
       </ul>
       <h3>Technical Skills</h3>
-     <ul>
+     <ul style="padding:10px">
          <ul>
           <h4>Programming Languages</h4>
             <li>C++ , Java , Javascript , PHP , typeScript</li>
