@@ -2,29 +2,29 @@
  <h1 align="center" color="red">Hello World I'm Abdel-rhman </h1>  
 <!--  <img align="right" alt="GIF" width="300" style="border-raduis:50%" height="200" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" style="max-width:100%;">  -->
   <h2> Education </h2>
-      <ul  style="padding:10px">
+      <ul  style="padding:5px">
          <li style="type:none">Faculty Of computers and Artificial Instelligence (Cairo University)</li>
       </ul>
-      <h3>Technical Skills</h3>
+      <h3 style="padding:2px">Technical Skills</h3>
      <ul>
-         <ul>
+         <ul style="padding:2px">
           <h4>Programming Languages</h4>
             <li>C++ , Java , Javascript , PHP , typeScript</li>
          </ul>
      <ul>
-      <h4>Designing languages and Libraries</h4>
+      <h4 style="padding:2px">Designing languages and Libraries</h4>
         <li> HTML5 , CSS3 </li>
            <li> Jquery , Bootstrap -  Ajax - Angular (single Page Application) </li>
      </ul>
-     <ul>
+     <ul style="padding:2px">
       <h4>Frameworks</h4>
       <li> laravel (PHP Framework) </li>
     </ul>
-    <ul>
+    <ul style="padding:2px">
        <h4>Data Bases</h4>
       <li>SQL - MYSQL</li>
     </ul>
-    <ul>
+    <ul style="padding:2px">
      <h4>Software SKills</h4>
      <li>Object Oriented Programming (OOP) -
      Solid Principles - Desgin Patterns - 
