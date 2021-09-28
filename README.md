@@ -2,7 +2,7 @@
  <h1 align="center" color="red">Hello World I'm Abdel-rhman </h1>  
 <!--  <img align="right" alt="GIF" width="300" style="border-raduis:50%" height="200" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" style="max-width:100%;">  -->
   <h2> Education </h2>
-  <hr/>
+
       <ul>
          <li>Faculty Of computers and Artificial Instelligence (Cairo University)</li>
       </ul>
