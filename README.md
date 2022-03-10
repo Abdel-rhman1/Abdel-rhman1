@@ -1,5 +1,9 @@
 
  <h1 align="center" color="red">Hello World I'm Abdel-rhman </h1>  
+ 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdel-rhman1)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--  <img align="right" alt="GIF" width="300" style="border-raduis:50%" height="200" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" style="max-width:100%;">  -->
   <h2> Education </h2>
       <ul  style="padding:5px">
