@@ -13,7 +13,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/Abdel-rhman1/Abdel-rhman1/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+or <a href="mailto:yousef777906@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [ABSphreak](https://github.com/abdel-rhman1)
+Credits: [Abdel-rhman1](https://github.com/abdel-rhman1)
 
-Last Edited on: 30/08/2020
+Last Edited on: 30/08/2023
